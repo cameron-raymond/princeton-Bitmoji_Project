@@ -13,3 +13,5 @@ pink = {
     'high_hsv':  np.array([200,225,250]),
     'category': 'device'
 }
+
+categories = [green,pink]
