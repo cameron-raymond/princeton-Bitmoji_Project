@@ -19,8 +19,8 @@ orange = {
 blue = {
     'rgb': np.array([0,0,255]),
     'hex': '#0000ff',
-    'low_hsv': np.array([80, 240,190]),
-    'high_hsv': np.array([130, 260,250]),
+    'low_hsv': np.array([110, 240,190]),
+    'high_hsv': np.array([140, 260,250]),
     'category': '03_blue'
 }
 
