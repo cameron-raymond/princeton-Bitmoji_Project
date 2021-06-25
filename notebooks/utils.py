@@ -5,15 +5,15 @@ lime = {
     'hex': '#00ff00',
     'low_hsv': np.array([50, 230,230]),
     'high_hsv': np.array([70, 260,260]),
-    'category': '01_lime'
+    'category': '01_books'
 }
 
 orange = {
     'rgb': np.array([255,165,0]),
     'hex': '#ffa500',
     'low_hsv': np.array([15,210, 230]),
-    'high_hsv': np.array([30,300,300]),
-    'category': '02_orange'
+    'high_hsv': np.array([20,300,300]),
+    'category': '02_wall_hangings'
 }
 
 blue = {
@@ -21,7 +21,7 @@ blue = {
     'hex': '#0000ff',
     'low_hsv': np.array([110, 240,190]),
     'high_hsv': np.array([140, 260,250]),
-    'category': '03_blue'
+    'category': '03_objects'
 }
 
 pink = {
@@ -29,7 +29,7 @@ pink = {
     'hex': '#ff1493',
     'low_hsv': np.array([160,200, 220]),
     'high_hsv': np.array([170,260,260]),
-    'category': '04_pink'
+    'category': '04_teacher'
 }
 
 
