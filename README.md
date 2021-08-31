@@ -2,7 +2,7 @@
 
 ## Parsing bitmoji images
 
-Given a set of images with existing bounding boxes, save each bounding box as a new image.
+Given a set of images (in the `data/input` folder) and the exported bounding boxes from VIA, save each bounding box as a new image.
 
 ## Creating qualtrics survey
 
